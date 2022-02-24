@@ -16,4 +16,4 @@ desde el repositorio podemos darle click a la opcion de clonar y usando los coma
 
 si un repositorio es clonado git seguira los cambios hechos a los archivos que tiene en el origen, pero si creamos un archivo nuevo, este dira "untracked" lo que significa que git no lo tiene en su directorio de archivos y no lo esta siguiendo, para gregarlo usamos el comando " git add (nombre del archivo) "
 
-tamnien se puede usar "git add ." que agregara todos los cambios y archivos no rastreados, pero no agregara cambios que incluyan lineas eliminas o archivos eliminados
+tambien se puede usar "git add ." que agregara todos los cambios y archivos no rastreados, pero no agregara cambios que incluyan lineas eliminas o archivos eliminados
